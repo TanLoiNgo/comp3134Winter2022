@@ -1,0 +1,402 @@
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2021-10-23T15:05:12Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2022-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: ariem@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: ariem@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-21T06:01:03Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+Domain Name: shopify.ca
+Registry Domain ID: D370207-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2022-01-19T09:31:16Z
+Creation Date: 2006-02-20T21:35:17Z
+Registry Expiry Date: 2024-02-20T05:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 75873925-CIRA
+Registrant Name: Shopify Inc.
+Registrant Organization:
+Registrant Street: 150 Elgin Street, 8th Floor
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K2P1L4
+Registrant Country: CA
+Registrant Phone: +1.6132412828
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains@shopify.com
+Registry Admin ID: 75874262-CIRA
+Admin Name: Dale Neufeld
+Admin Organization: Shopify Inc.
+Admin Street: 150 Elgin Street, 8th Floor
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K2P1L4
+Admin Country: CA
+Admin Phone: +1.6132412828
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domains@shopify.com
+Registry Tech ID: 75874262-CIRA
+Tech Name: Dale Neufeld
+Tech Organization: Shopify Inc.
+Tech Street: 150 Elgin Street, 8th Floor
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K2P1L4
+Tech Country: CA
+Tech Phone: +1.6132412828
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains@shopify.com
+Registry Billing ID: 73886904-CIRA
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane, Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext:
+Billing Fax: +1.2083895771
+Billing Fax Ext:
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: dns1.p06.nsone.net
+Name Server: dns2.p06.nsone.net
+Name Server: dns3.p06.nsone.net
+Name Server: dns4.p06.nsone.net
+Name Server: ns1.dnsimple.com
+Name Server: ns2.dnsimple.com
+Name Server: ns3.dnsimple.com
+Name Server: ns4.dnsimple.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-21T06:22:07Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+Domain Name: instagram.ca
+Registry Domain ID: 15727723-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.hexonet.net
+Updated Date: 2022-01-07T04:13:33Z
+Creation Date: 2014-01-07T04:10:22Z
+Registry Expiry Date: 2023-01-07T04:10:22Z
+Registrar: CENTRALNIC CANADA INC
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 67636927-CIRA
+Registrant Name: Instagram, LLC
+Registrant Organization:
+Registrant Street: 1601 Willow Road
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: globaladmin@lovellsnames.org
+Registry Admin ID: 19263585-CIRA
+Admin Name: David Taylor
+Admin Organization: Hogan Lovells (Paris) LLP
+Admin Street: 17 avenue Matignon
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 75008
+Admin Country: FR
+Admin Phone: +33.153674747
+Admin Phone Ext:
+Admin Fax: +33.153674748
+Admin Fax Ext:
+Admin Email: globaladmin@lovellsnames.org
+Registry Tech ID: 19263585-CIRA
+Tech Name: David Taylor
+Tech Organization: Hogan Lovells (Paris) LLP
+Tech Street: 17 avenue Matignon
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 75008
+Tech Country: FR
+Tech Phone: +33.153674747
+Tech Phone Ext:
+Tech Fax: +33.153674748
+Tech Fax Ext:
+Tech Email: globaladmin@lovellsnames.org
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a.ns.facebook.com
+Name Server: b.ns.facebook.com
+Name Server: c.ns.facebook.com
+Name Server: d.ns.facebook.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-21T06:28:10Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+Domain Name: tsn.ca
+Registry Domain ID: D97127-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-11-01T17:05:21Z
+Creation Date: 2000-10-15T14:14:52Z
+Registry Expiry Date: 2024-03-17T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 73713289-CIRA
+Registrant Name: The Sports Network Inc.
+Registrant Organization:
+Registrant Street: 9 Channel Nine Court
+Registrant City: Scarborough
+Registrant State/Province: ON
+Registrant Postal Code: M1S4B5
+Registrant Country: CA
+Registrant Phone: +1.5148702477
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: trademarks@bell.ca
+Registry Admin ID: 73713566-CIRA
+Admin Name: Claudia Mack
+Admin Organization: The Sports Network Inc.
+Admin Street: 9 Channel Nine Court
+Admin City: Scarborough
+Admin State/Province: ON
+Admin Postal Code: M1S4B5
+Admin Country: CA
+Admin Phone: +1.5148702477
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: trademarks@bell.ca
+Registry Tech ID: 73713566-CIRA
+Tech Name: Claudia Mack
+Tech Organization: The Sports Network Inc.
+Tech Street: 9 Channel Nine Court
+Tech City: Scarborough
+Tech State/Province: ON
+Tech Postal Code: M1S4B5
+Tech Country: CA
+Tech Phone: +1.5148702477
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: trademarks@bell.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: pdns1.ultradns.net
+Name Server: pdns2.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+Name Server: pdns6.ultradns.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-21T06:29:51Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+Domain Name: kijiji.ca
+Registry Domain ID: D724003-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-12-17T09:40:58Z
+Creation Date: 2005-01-18T18:47:32Z
+Registry Expiry Date: 2023-01-18T05:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 95092816-CIRA
+Registrant Name: Kijiji Canada Ltd
+Registrant Organization:
+Registrant Street: 500 King St. W., Suite 200
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5V1L9
+Registrant Country: CA
+Registrant Phone: +1.4165983400
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: hostmaster@eclassifiedsgroup.com
+Registry Admin ID: 62560808-CIRA
+Admin Name: Olga Yaguez
+Admin Organization: Kijiji Canada Ltd
+Admin Street: Kijiji Canada Ltd, 500 King St. W., Suite 200
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5V1L9
+Admin Country: CA
+Admin Phone: +1.4165983400
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: hostmaster@ebay.com
+Registry Tech ID: 95510730-CIRA
+Tech Name: Domain Administrator
+Tech Organization: Marktplaats B.V.
+Tech Street: Wibautstraat 224
+Tech City: Amsterdam
+Tech State/Province: NL
+Tech Postal Code: 1097DN
+Tech Country: NL
+Tech Phone: +31.204622500
+Tech Phone Ext:
+Tech Fax: +31.204622500
+Tech Fax Ext:
+Tech Email: hostmaster@eclassifiedsgroup.com
+Registry Billing ID: 73886904-CIRA
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane, Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext:
+Billing Fax: +1.2083895771
+Billing Fax Ext:
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: ns1.p13.dynect.net
+Name Server: ns2.p13.dynect.net
+Name Server: ns3.p13.dynect.net
+Name Server: ns4.p13.dynect.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2022-01-21T06:35:42Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2022 Canadian Internet Registration Authority, (http://www.cira.ca/)
