@@ -1,0 +1,28 @@
+Domain Name: aircanada.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 23.5.224.175
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+Reverse DNS: a23-5-224-175.deploy.static.akamaitechnologies.com
+
+Domain Name: thebay.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 23.218.216.197
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+Reverse DNS: a23-218-216-197.deploy.static.akamaitechnologies.com
+
+Domain Name: thebay.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 23.218.216.197
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+Reverse DNS: a23-218-216-197.deploy.static.akamaitechnologies.com
+
+Domain Name: youtube.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 142.250.65.206
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+Reverse DNS: lga25s72-in-f14.1e100.net
+
+Domain Name: linkedin.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 13.107.42.14
+Geolocation: US (United States), WA, Washington, 98052 Redmond - Google Maps
