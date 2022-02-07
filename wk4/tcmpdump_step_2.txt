@@ -1,0 +1,11 @@
+root@comp3134-intro-to-cyber-security:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+01:44:40.443116 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 279063433:279063541, ack 100709687, win 501, length 108
+01:44:40.443284 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 108:144, ack 1, win 501, length 36
+01:44:40.443436 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 144:252, ack 1, win 501, length 108
+01:44:40.443594 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 252:288, ack 1, win 501, length 36
+01:44:40.445248 IP comp3134-intro-to-cyber-security.48870 > 67.207.67.2.domain: 28331+ [1au] PTR? 185.154.148.184.in-addr.arpa. (57)
+5 packets captured
+45 packets received by filter
+9 packets dropped by kernel

@@ -1,0 +1,54 @@
+root@comp3134-intro-to-cyber-security:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+01:36:27.883754 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 278872125:278872233, ack 100709303, win 501, length 108
+01:36:27.883916 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 108:144, ack 1, win 501, length 36
+01:36:27.884078 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 144:252, ack 1, win 501, length 108
+01:36:27.884210 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 252:288, ack 1, win 501, length 36
+01:36:27.886176 IP comp3134-intro-to-cyber-security.46521 > 67.207.67.2.domain: 43206+ [1au] PTR? 185.154.148.184.in-addr.arpa. (57)
+01:36:27.886357 IP comp3134-intro-to-cyber-security.34625 > 67.207.67.2.domain: 53140+ [1au] PTR? 185.154.148.184.in-addr.arpa. (57)
+01:36:27.887503 IP comp3134-intro-to-cyber-security.36207 > 67.207.67.2.domain: 23106+ [1au] PTR? 130.34.198.143.in-addr.arpa. (56)
+01:36:27.887739 IP comp3134-intro-to-cyber-security.43233 > 67.207.67.2.domain: 48255+ [1au] PTR? 130.34.198.143.in-addr.arpa. (56)
+01:36:27.887939 IP comp3134-intro-to-cyber-security.55118 > 67.207.67.2.domain: 23224+ [1au] PTR? 130.34.198.143.in-addr.arpa. (56)
+01:36:27.888173 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.46521: 43206 1/0/1 PTR bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca. (127)
+01:36:27.888223 IP comp3134-intro-to-cyber-security > 67.207.67.2: ICMP comp3134-intro-to-cyber-security udp port 46521 unreachable, length 163
+01:36:27.888489 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.34625: 53140 1/0/1 PTR bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca. (127)
+01:36:27.888551 IP comp3134-intro-to-cyber-security > 67.207.67.2: ICMP comp3134-intro-to-cyber-security udp port 34625 unreachable, length 163
+01:36:27.888589 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.43233: 48255 NXDomain 0/1/1 (123)
+01:36:27.888766 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.36207: 23106 NXDomain 0/1/1 (123)
+01:36:27.888818 IP comp3134-intro-to-cyber-security.43233 > 67.207.67.2.domain: 48255+ PTR? 130.34.198.143.in-addr.arpa. (45)
+01:36:27.888858 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.55118: 23224 NXDomain 0/1/1 (123)
+01:36:27.889121 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.43233: 48255 NXDomain 0/1/0 (112)
+01:36:27.889136 IP comp3134-intro-to-cyber-security.36207 > 67.207.67.2.domain: 23106+ PTR? 130.34.198.143.in-addr.arpa. (45)
+01:36:27.889282 IP comp3134-intro-to-cyber-security.55118 > 67.207.67.2.domain: 23224+ PTR? 130.34.198.143.in-addr.arpa. (45)
+01:36:27.889510 IP bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 288, win 1021, length 0
+01:36:27.889566 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.36207: 23106 NXDomain 0/1/0 (112)
+01:36:27.889566 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.55118: 23224 NXDomain 0/1/0 (112)
+01:36:27.890600 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 288:516, ack 1, win 501, length 228
+01:36:27.890763 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 516:552, ack 1, win 501, length 36
+01:36:27.890967 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 552:764, ack 1, win 501, length 212
+01:36:27.891107 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 764:800, ack 1, win 501, length 36
+01:36:27.891280 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 800:1012, ack 1, win 501, length 212
+01:36:27.891422 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1012:1048, ack 1, win 501, length 36
+01:36:27.891605 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1048:1260, ack 1, win 501, length 212
+01:36:27.891749 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1260:1296, ack 1, win 501, length 36
+01:36:27.892293 IP comp3134-intro-to-cyber-security.58837 > 67.207.67.2.domain: 2453+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+01:36:27.892426 IP comp3134-intro-to-cyber-security.39636 > 67.207.67.2.domain: 8461+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+01:36:27.892562 IP comp3134-intro-to-cyber-security.52022 > 67.207.67.2.domain: 24738+ [1au] PTR? 2.67.207.67.in-addr.arpa. (53)
+01:36:27.892763 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.58837: 2453 NXDomain 0/1/1 (120)
+01:36:27.892819 IP 67.207.67.2.domain > comp3134-intro-to-cyber-security.39636: 8461 NXDomain 0/1/1 (120)
+01:36:27.894289 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1468:1504, ack 1, win 501, length 36
+01:36:27.894577 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1712:1884, ack 1, win 501, length 172
+01:36:27.894772 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1920:2092, ack 1, win 501, length 172
+01:36:27.894973 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 2128:2300, ack 1, win 501, length 172
+01:36:27.895161 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 2336:2532, ack 1, win 501, length 196
+01:36:27.895337 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 2568:2748, ack 1, win 501, length 180
+01:36:27.895525 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 2784:2980, ack 1, win 501, length 196
+01:36:27.895713 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 3016:3196, ack 1, win 501, length 180
+01:36:27.896890 IP bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 1920, win 1022, length 0
+01:36:27.896918 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 3232:5368, ack 1, win 501, length 2136
+01:36:27.897034 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 5368:5580, ack 1, win 501, length 212
+^C
+917 packets captured
+942 packets received by filter
+25 packets dropped by kernel

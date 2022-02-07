@@ -1,0 +1,30 @@
+root@comp3134-intro-to-cyber-security:~# tcpdump -i eth0 tcp
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+01:58:12.536243 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 299123293:299123401, ack 100726303, win 546, length 108
+01:58:12.536454 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 108:144, ack 1, win 546, length 36
+01:58:12.536621 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 144:252, ack 1, win 546, length 108
+01:58:12.536808 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 252:288, ack 1, win 546, length 36
+01:58:12.540615 IP bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 288, win 1025, length 0
+01:58:12.542578 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 288:516, ack 1, win 546, length 228
+01:58:12.542820 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 516:552, ack 1, win 546, length 36
+01:58:12.542936 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 552:764, ack 1, win 546, length 212
+01:58:12.543069 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 764:800, ack 1, win 546, length 36
+01:58:12.543254 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 800:1012, ack 1, win 546, length 212
+01:58:12.543406 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1012:1048, ack 1, win 546, length 36
+01:58:12.543585 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1048:1260, ack 1, win 546, length 212
+01:58:12.543713 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1260:1296, ack 1, win 546, length 36
+01:58:12.543879 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1296:1492, ack 1, win 546, length 196
+01:58:12.543999 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1492:1528, ack 1, win 546, length 36
+01:58:12.547024 IP bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 800, win 1023, length 0
+01:58:12.547086 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 1528:4008, ack 1, win 546, length 2480
+01:58:12.547282 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 4008:4204, ack 1, win 546, length 196
+01:58:12.547442 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 4204:4240, ack 1, win 546, length 36
+01:58:12.547640 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 4240:4452, ack 1, win 546, length 212
+01:58:12.547793 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 4452:4488, ack 1, win 546, length 36
+01:58:12.547965 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 4488:4700, ack 1, win 546, length 212
+01:58:12.548107 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon020aw-grc-06-184-148-154-185.dsl.bell.ca.56163: Flags [P.], seq 4700:4736, ack 1, win 546, length 36
+^C
+8822 packets captured
+8823 packets received by filter
+0 packets dropped by kernel
