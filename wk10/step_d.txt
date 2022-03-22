@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+ It failed to open the file hello in the file or directidat /var/www/html/directory_traversal_part1.php
+
+• What sensitive information is given by this page. 
+The directory of where the file is

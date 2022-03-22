@@ -1,0 +1,4 @@
+• What you see on the browser (the issue)
+• What sensitive information is given by this page. 
+
+The PHP script can expose all hidden files, As you can see all hidden files shown and it can be a sensitive information

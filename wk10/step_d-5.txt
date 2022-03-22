@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+• What sensitive information is given by this page. 
+	this URL %2e%2e%2f allows the attacker to break out of the base directory and 
+view files stored in other folders on the filesystem, such as they can view files 
+inside the dot files or HTML file which can be sensitive information

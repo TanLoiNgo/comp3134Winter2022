@@ -1,0 +1,2 @@
+I'll check the existence of folders for the path variable by using the file_exists function, 
+and I'll update the path by using the basename function to prevent access to parent folders.

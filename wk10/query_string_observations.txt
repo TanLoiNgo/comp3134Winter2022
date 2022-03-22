@@ -1,0 +1,17 @@
+1) Navigate to the form and type a valid English word. Write your observations.
+After I put a valid word after this url https://www.dictionary.com/browse/,  
+a valid word will be stored in the search bar and return the results.
+
+2) Navigate to the URL and type an invalid English word after the `/browse/` section of the
+URL. Write your observations
+ If you put an invalid word after this URL https://www.dictionary.com/browse/, 
+an invalid word will be stored in the search bar as well and return results with familiar 
+words suggestion to an invalid word.
+
+3) Navigate to the form and type the following text: <script>alert(%27hello%27)</script>
+Write your observations.
+After typing the following text, it returns articles linked and no suggestion words.
+
+4) Navigate to the URL and type the following text: <script>alert(%27hello%27)</script>
+after the `term=` section of the URL. Write your observations.
+The result is the same as question 3, it returns articles linked and no suggestion words.

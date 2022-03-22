@@ -1,0 +1,6 @@
+What is the difference between the two solutions?
+
+In solution #1: It can read all tags from a given string.
+
+In solution #1: I use strip_tags function for solution 2. This function tries to 
+return a string with all NULL bytes, HTML and PHP tags stripped from a given string.
